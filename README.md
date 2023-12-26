@@ -26,6 +26,11 @@ Swift, Custom UIView, Speech framework,Grand Central Dispatch(GCD), AVFoundation
 Python, Fastapi, Pytorch, Cuda, [XTTS](https://huggingface.co/coqui/XTTS-v2), [argostranslate](https://pypi.org/project/argostranslate/).
 
 ## Showcase
+- Custom animation when you say something ,the circle will be changed by your voice power
+<img src="https://raw.githubusercontent.com/livingspring/Voice-Translator/master/animation1.gif" width="80"/>
+
+- Custom animation when data is loading the ring will turn circle
+<img src="https://raw.githubusercontent.com/livingspring/Voice-Translator/master/animation2.gif" width="80">
 
 [![Video](https://i.ytimg.com/an_webp/oQ_5EHPDpcU/mqdefault_6s.webp?du=3000&sqp=CI-64qsG&rs=AOn4CLC9uiNmQfltaLm0daK-lMW2ZwZanQ)](https://www.youtube.com/watch?v=oQ_5EHPDpcU)
 
